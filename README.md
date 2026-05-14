@@ -12,6 +12,9 @@ Developed an RFID-based smart lab management system that automates student authe
 * Login/logout time tracking
 * Database-based student and system management
 
+## Hardware Implementation
+![Hardware Setup](screenshot/hardware_setup.jpg)
+
 ## Software Implementation
 
 Implemented allocation logic, database handling, real-time status monitoring, and serial communication between the microcontroller and software application for automated system assignment.
