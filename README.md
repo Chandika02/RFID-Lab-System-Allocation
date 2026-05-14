@@ -13,7 +13,7 @@ Developed an RFID-based smart lab management system that automates student authe
 * Database-based student and system management
 
 ## Hardware Implementation
-<img src="lab-rfid-system/screenshot/hardware_setup.jpeg" width="400">
+<img src="lab-rfid-system/screenshot/hardware_setup.jpeg" width="150">
 
 ## Software Implementation
 
